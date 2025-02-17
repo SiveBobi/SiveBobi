@@ -5,7 +5,9 @@ This is my a "Hello World" web application.
 Steps: to run the appliication
 
 1.Copy the github link
+
 2.Clone it to your prefered IDE
+
 3.Run the application
 
 And you should see results similar to the below screenshot
